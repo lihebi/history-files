@@ -44,7 +44,7 @@
         score 0 level 0)
  "auspicious"
  (trans "吉祥" note nil date
-        (23694 33244 342345 304000)
+        (23894 63217 277372 934000)
         score 0 level 0)
  "arthropod"
  (trans "节肢动物" note nil date
@@ -108,7 +108,7 @@
         score 0 level 0)
  "cockpit"
  (trans "座舱" note nil date
-        (23694 62776 909483 882000)
+        (23894 63220 973390 398000)
         score 0 level 0)
  "inertial"
  (trans "惯性的" note nil date
@@ -120,7 +120,7 @@
         score 0 level 0)
  "galvanic"
  (trans "电流的" note nil date
-        (23694 62784 119239 929000)
+        (23894 63224 733340 767000)
         score 0 level 0)
  "infrared"
  (trans "红外线" note nil date
@@ -132,19 +132,19 @@
         score 0 level 0)
  "nibble"
  (trans "蚕食" note nil date
-        (23694 62790 530311 609000)
+        (23894 63228 261384 75000)
         score 0 level 0)
  "primordial"
  (trans "原始" note nil date
-        (23694 62795 300295 55000)
+        (23897 35004 957447 70000)
         score 0 level 0)
  "proclaim"
  (trans "宣布" note nil date
-        (23694 62803 395354 618000)
+        (23897 35007 925428 393000)
         score 0 level 0)
  "heirloom"
  (trans "传家宝" note nil date
-        (23694 62809 458591 405000)
+        (23897 35012 877427 835000)
         score 0 level 0)
  "cooperative"
  (trans "合作社" note nil date
@@ -336,23 +336,23 @@
         score 1 level 0)
  "shunt"
  (trans "分流" note nil date
-        (23694 32027 760214 526000)
+        (23897 35016 589414 3000)
         score 0 level 0)
  "alleviate"
  (trans "缓和" note nil date
-        (23694 32032 659444 787000)
+        (23897 35020 149444 1000)
         score 0 level 0)
  "bushing"
  (trans "衬套" note nil date
-        (23694 32039 781236 184000)
+        (23897 35022 965409 372000)
         score 0 level 0)
  "scrutinize"
  (trans "细察" note nil date
-        (23694 32049 468963 921000)
+        (23897 35026 77433 826000)
         score 0 level 0)
  "crook"
  (trans "弯曲" note nil date
-        (23694 32089 717877 272000)
+        (23897 35029 541421 949000)
         score 0 level 0)
  "pushrod"
  (trans "推杆" note nil date
@@ -360,15 +360,15 @@
         score 2 level 1)
  "formidable"
  (trans "强大" note nil date
-        (23694 32908 107727 741000)
+        (23897 35039 733423 743000)
         score 0 level 0)
  "archaeological"
  (trans "考古学的" note nil date
-        (23694 32913 358558 150000)
+        (23897 35043 669416 226000)
         score 0 level 0)
  "per se"
  (trans "by or in itself" note nil date
-        (23694 62814 806389 253000)
+        (23897 35048 517457 829000)
         score 0 level 0)
  "parachute"
  (trans "降落伞" note nil date
@@ -1012,7 +1012,7 @@
         score 0 level 0)
  "hustle"
  (trans "喧嚣" note nil date
-        (23883 59700 875526 739000)
+        (23895 106 813476 853000)
         score 0 level 0)
  "oath"
  (trans "誓言" note nil date
@@ -1153,4 +1153,36 @@
  "rival"
  (trans "对手" note nil date
         (23894 11609 955390 935000)
+        score 0 level 0)
+ "jeopardy"
+ (trans "危险" note nil date
+        (23894 50693 21120 990000)
+        score 0 level 0)
+ "beware"
+ (trans "谨防" note nil date
+        (23894 51656 436984 149000)
+        score 0 level 0)
+ "discrepancy"
+ (trans "差异" note nil date
+        (23894 63210 109540 635000)
+        score 0 level 0)
+ "veteran"
+ (trans "老将" note nil date
+        (23894 65110 101627 619000)
+        score 0 level 0)
+ "enticing"
+ (trans "诱人" note nil date
+        (23894 65403 197591 598000)
+        score 0 level 0)
+ "frugal"
+ (trans "节俭" note nil date
+        (23894 65427 357608 221000)
+        score 0 level 0)
+ "portfolio"
+ (trans "投资组合" note nil date
+        (23894 65516 37656 433000)
+        score 0 level 0)
+ "displace"
+ (trans "顶替" note nil date
+        (23897 34997 349736 97000)
         score 0 level 0))
