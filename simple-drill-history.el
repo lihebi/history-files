@@ -372,15 +372,15 @@
         score 0 level 0)
  "parachute"
  (trans "降落伞" note nil date
-        (23694 32918 262279 360000)
+        (23908 17551 413266 498000)
         score 0 level 0)
  "forge"
  (trans "锻造" note nil date
-        (23694 32938 235139 947000)
+        (23908 17554 901239 754000)
         score 0 level 0)
  "exceedingly"
  (trans "非常" note nil date
-        (23694 62818 132708 45000)
+        (23908 17558 245237 358000)
         score 0 level 0)
  "gnarly"
  (trans "粗糙" note nil date
@@ -1185,4 +1185,20 @@
  "displace"
  (trans "顶替" note nil date
         (23897 34997 349736 97000)
+        score 0 level 0)
+ "swagger"
+ (trans "昂首阔步" note nil date
+        (23908 17544 701540 497000)
+        score 0 level 0)
+ "litigation"
+ (trans "诉讼" note nil date
+        (23908 18206 517533 277000)
+        score 0 level 0)
+ "belittle"
+ (trans "贬低" note nil date
+        (23908 18316 293254 358000)
+        score 0 level 0)
+ "nitpick"
+ (trans "鸡蛋里挑骨头" note nil date
+        (23908 18328 133406 306000)
         score 0 level 0))
