@@ -100,8 +100,8 @@
         score 0 level 0)
  "butler"
  (trans "男管家" note nil date
-        (23694 33237 205497 133000)
-        score 2 level 1)
+        (23912 43192 865714 281000)
+        score 0 level 0)
  "villain"
  (trans "恶棍" note nil date
         (23711 47650 758291 831000)
@@ -356,8 +356,8 @@
         score 0 level 0)
  "pushrod"
  (trans "推杆" note nil date
-        (23694 32903 74216 863000)
-        score 2 level 1)
+        (23912 43198 185725 417000)
+        score 0 level 0)
  "formidable"
  (trans "强大" note nil date
         (23897 35039 733423 743000)
@@ -384,7 +384,7 @@
         score 0 level 0)
  "gnarly"
  (trans "粗糙" note nil date
-        (23694 62828 308510 303000)
+        (23912 43174 73679 431000)
         score 0 level 0)
  "ecstatic"
  (trans "欣喜若狂" note nil date
@@ -504,19 +504,19 @@
         score 0 level 0)
  "slick"
  (trans "华而不实的" note nil date
-        (23694 32016 354370 322000)
+        (23912 43179 353627 295000)
         score 0 level 0)
  "I kid you not"
  (trans "to emphasize that you are telling the truth" note nil date
-        (23694 62766 958780 157000)
+        (23912 43189 81704 209000)
         score 0 level 0)
  "laminator"
  (trans "层压机" note nil date
-        (23698 49484 789184 790000)
+        (23912 43204 649732 98000)
         score 0 level 0)
  "cradle"
  (trans "摇篮" note nil date
-        (23700 27200 892964 596000)
+        (23912 43217 753678 361000)
         score 0 level 0)
  "lath"
  (trans "板条" note nil date
@@ -808,7 +808,7 @@
         score 0 level 0)
  "loathe"
  (trans "厌恶" note nil date
-        (23871 32854 863161 3000)
+        (23912 54051 930110 533000)
         score 0 level 0)
  "reckon"
  (trans "估计" note nil date
@@ -1201,4 +1201,40 @@
  "nitpick"
  (trans "鸡蛋里挑骨头" note nil date
         (23908 18328 133406 306000)
+        score 0 level 0)
+ "prospere"
+ (trans "繁荣" note nil date
+        (23912 43168 953774 579000)
+        score 0 level 0)
+ "shader"
+ (trans "着色器" note nil date
+        (23912 47245 433863 773000)
+        score 0 level 0)
+ "empathy"
+ (trans "同情" note nil date
+        (23912 47354 393833 769000)
+        score 0 level 0)
+ "resilient"
+ (trans "弹性" note nil date
+        (23912 47379 113827 859000)
+        score 0 level 0)
+ "padawan"
+ (trans "徒弟" note nil date
+        (23912 47480 121861 73000)
+        score 0 level 0)
+ "baloney"
+ (trans "胡扯" note nil date
+        (23912 49464 585995 927000)
+        score 0 level 0)
+ "stumble"
+ (trans "绊倒" note nil date
+        (23912 49510 625985 809000)
+        score 0 level 0)
+ "infotainment"
+ (trans "信息娱乐" note nil date
+        (23912 54480 234194 294000)
+        score 0 level 0)
+ "prescient"
+ (trans "有先见之明" note nil date
+        (23912 54606 82229 377000)
         score 0 level 0))
