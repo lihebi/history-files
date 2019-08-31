@@ -28,7 +28,7 @@
         score 0 level 0)
  "prevailing"
  (trans "优势" note nil date
-        (23711 47621 746907 346000)
+        (23913 27183 595862 275000)
         score 1 level 0)
  "commensurate"
  (trans "相称" note nil date
@@ -48,19 +48,19 @@
         score 0 level 0)
  "arthropod"
  (trans "节肢动物" note nil date
-        (23711 47631 188087 541000)
+        (23913 27189 323888 308000)
         score 0 level 0)
  "fauna"
  (trans "动物区系" note nil date
-        (23711 47634 635342 157000)
+        (23913 27214 219863 879000)
         score 0 level 0)
  "aerodynamic"
  (trans "空气动力学的" note nil date
-        (23711 47641 184906 7000)
-        score 1 level 0)
+        (23913 27199 267826 136000)
+        score 2 level 1)
  "alight"
  (trans "落" note nil date
-        (23711 47645 134918 42000)
+        (23913 27202 819887 945000)
         score 0 level 0)
  "sporadically"
  (trans "偶尔" note nil date
@@ -104,7 +104,7 @@
         score 0 level 0)
  "villain"
  (trans "恶棍" note nil date
-        (23711 47650 758291 831000)
+        (23913 27208 909335 634000)
         score 0 level 0)
  "cockpit"
  (trans "座舱" note nil date
@@ -116,7 +116,7 @@
         score 2 level 3)
  "pinch"
  (trans "捏" note nil date
-        (23711 47660 315012 674000)
+        (23914 4358 53770 224000)
         score 0 level 0)
  "galvanic"
  (trans "电流的" note nil date
@@ -148,12 +148,12 @@
         score 0 level 0)
  "cooperative"
  (trans "合作社" note nil date
-        (23711 47670 412745 390000)
-        score 1 level 0)
+        (23914 4364 349785 705000)
+        score 0 level 0)
  "mustache"
  (trans "胡子" note nil date
-        (23715 36168 632125 610000)
-        score 1 level 0)
+        (23914 4404 525762 243000)
+        score 0 level 0)
  "triumph"
  (trans "胜利" note nil date
         (23715 36180 254386 47000)
@@ -388,19 +388,19 @@
         score 0 level 0)
  "ecstatic"
  (trans "欣喜若狂" note nil date
-        (23711 47609 129375 125000)
+        (23914 4371 629730 289000)
         score 0 level 0)
  "diligence"
  (trans "勤勉" note nil date
-        (23711 47614 550302 221000)
+        (23914 4379 293744 623000)
         score 0 level 0)
  "swerve"
  (trans "转弯" note nil date
-        (23715 36173 842546 648000)
+        (23914 4409 725726 334000)
         score 0 level 0)
  "arse"
  (trans "烧" note nil date
-        (23715 36177 316464 207000)
+        (23914 4415 181815 25000)
         score 0 level 0)
  "puffer"
  (trans "河豚" note nil date
@@ -520,31 +520,31 @@
         score 0 level 0)
  "lath"
  (trans "板条" note nil date
-        (23705 28208 538161 367000)
+        (23913 27177 27912 733000)
         score 0 level 0)
  "crux"
  (trans "症结" note nil date
-        (23711 47602 464280 765000)
+        (23914 4386 93803 792000)
         score 0 level 0)
  "thrust"
  (trans "推力" note nil date
-        (23711 47764 616241 995000)
+        (23914 4390 341773 217000)
         score 0 level 0)
  "at odds"
  (trans "in conflict" note nil date
-        (23714 32345 144498 672000)
+        (23914 4398 181785 666000)
         score 0 level 0)
  "at variance"
  (trans "in conflict" note nil date
-        (23714 32350 314408 596000)
+        (23914 4435 229791 853000)
         score 0 level 0)
  "conundrum"
  (trans "难题" note nil date
-        (23715 36153 41488 167000)
+        (23914 4427 933766 617000)
         score 0 level 0)
  "gratis"
  (trans "免费" note nil date
-        (23715 36321 900372 329000)
+        (23914 6640 245861 134000)
         score 0 level 0)
  "afoot"
  (trans "在进行中" note nil date
@@ -639,7 +639,7 @@
         (23864 64610 320879 996000)
         score 0 level 0)
  "abysmal"
- (trans "深" note nil date
+ (trans "very bad; very deep" note nil date
         (23866 7137 908130 852000)
         score 0 level 0)
  "equilibria"
@@ -1237,4 +1237,80 @@
  "prescient"
  (trans "有先见之明" note nil date
         (23912 54606 82229 377000)
+        score 0 level 0)
+ "clash"
+ (trans "冲突" note nil date
+        (23913 25784 675857 581000)
+        score 0 level 0)
+ "acronym"
+ (trans "缩写" note nil date
+        (23913 26304 187779 889000)
+        score 0 level 0)
+ "embargo"
+ (trans "禁运" note nil date
+        (23913 27172 811867 247000)
+        score 0 level 0)
+ "dribs and drabs"
+ (trans "点点滴滴" note nil date
+        (23913 27319 139972 8000)
+        score 0 level 0)
+ "bribery"
+ (trans "受贿" note nil date
+        (23913 27386 347919 454000)
+        score 0 level 0)
+ "impediment"
+ (trans "障碍" note nil date
+        (23913 27472 787884 51000)
+        score 0 level 0)
+ "venerable"
+ (trans "可敬" note nil date
+        (23913 27743 243896 509000)
+        score 0 level 0)
+ "inexplicably"
+ (trans "莫名" note nil date
+        (23914 3968 61827 515000)
+        score 0 level 0)
+ "vanity"
+ (trans "虚荣" note nil date
+        (23914 4352 717848 175000)
+        score 0 level 0)
+ "brink"
+ (trans "边缘" note nil date
+        (23914 4503 901761 797000)
+        score 0 level 0)
+ "extinction"
+ (trans "灭绝" note nil date
+        (23914 4512 421817 143000)
+        score 0 level 0)
+ "incline"
+ (trans "倾斜" note nil date
+        (23914 4833 253820 794000)
+        score 0 level 0)
+ "rehab"
+ (trans "康复" note nil date
+        (23914 5413 853832 130000)
+        score 0 level 0)
+ "skull"
+ (trans "头骨" note nil date
+        (23914 5438 317852 126000)
+        score 0 level 0)
+ "intergalactic"
+ (trans "星系间" note nil date
+        (23914 5807 973871 264000)
+        score 0 level 0)
+ "kudos"
+ (trans "praise" note nil date
+        (23914 6494 181925 759000)
+        score 0 level 0)
+ "acclaim"
+ (trans "欢呼" note nil date
+        (23914 6505 277886 99000)
+        score 0 level 0)
+ "corpse"
+ (trans "尸体" note nil date
+        (23914 14115 934246 705000)
+        score 0 level 0)
+ "abusive"
+ (trans "滥用的" note nil date
+        (23914 15421 318267 94000)
         score 0 level 0))
