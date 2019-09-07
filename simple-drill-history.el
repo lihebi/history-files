@@ -1,7 +1,7 @@
 ("pretty"
  (trans "漂亮" note nil date
-        (23689 28080 869793 160000)
-        score 2 level 5)
+        (23914 51359 919818 928000)
+        score 2 level 6)
  "old"
  (trans "旧" note nil date
         (23880 63642 47389 661000)
@@ -64,19 +64,19 @@
         score 0 level 0)
  "sporadically"
  (trans "偶尔" note nil date
-        (23855 18442 123083 196000)
+        (23916 14278 940052 44000)
         score 0 level 0)
  "breeze"
  (trans "微风" note nil date
-        (23863 28928 633185 162000)
-        score 0 level 0)
+        (23916 14327 180101 546000)
+        score 2 level 1)
  "insulator"
  (trans "绝缘子" note nil date
         (23878 64425 729755 983000)
         score 2 level 3)
  "triboelectric"
  (trans "摩擦" note nil date
-        (23863 28935 82753 269000)
+        (23917 45824 736489 490000)
         score 0 level 0)
  "surmise"
  (trans "推测" note nil date
@@ -156,23 +156,23 @@
         score 0 level 0)
  "triumph"
  (trans "胜利" note nil date
-        (23715 36180 254386 47000)
-        score 2 level 2)
+        (23914 51357 199823 942000)
+        score 2 level 3)
  "shrouded"
  (trans "笼罩" note nil date
-        (23863 28948 691403 888000)
+        (23917 45829 504422 563000)
         score 0 level 0)
  "crimping"
  (trans "卷边" note nil date
-        (23863 28953 759439 31000)
+        (23917 45836 968391 501000)
         score 0 level 0)
  "fruition"
  (trans "享用" note nil date
-        (23863 28958 635489 403000)
+        (23917 45840 520422 610000)
         score 0 level 0)
  "hark"
  (trans "重提" note nil date
-        (23863 28962 564322 224000)
+        (23917 45845 368441 881000)
         score 0 level 0)
  "hairy"
  (trans "毛茸茸" note nil date
@@ -256,7 +256,7 @@
         score 0 level 0)
  "fatigue"
  (trans "疲劳" note nil date
-        (23871 22118 600741 487000)
+        (23914 62333 968343 477000)
         score 0 level 0)
  "tribute"
  (trans "贡" note nil date
@@ -404,16 +404,16 @@
         score 0 level 0)
  "puffer"
  (trans "河豚" note nil date
-        (23855 18424 455150 518000)
+        (23916 14282 852081 758000)
         score 0 level 0)
  "savvy"
  (trans "精明" note nil date
-        (23855 18430 341310 873000)
+        (23916 14289 642589 662000)
         score 0 level 0)
  "saturation"
  (trans "饱和" note nil date
-        (23855 18434 552946 986000)
-        score 1 level 0)
+        (23916 14294 980055 360000)
+        score 0 level 0)
  "scrutiny"
  (trans "审查" note nil date
         (23868 45471 217182 309000)
@@ -496,7 +496,7 @@
         score 0 level 0)
  "detain"
  (trans "拘留" note nil date
-        (23881 51980 893248 436000)
+        (23917 61650 265153 995000)
         score 0 level 0)
  "rant"
  (trans "胡言乱语" note nil date
@@ -548,91 +548,91 @@
         score 0 level 0)
  "afoot"
  (trans "在进行中" note nil date
-        (23715 49922 858150 836000)
+        (23914 51355 31835 53000)
         score 0 level 0)
  "conspiracy"
  (trans "阴谋" note nil date
-        (23754 27374 949214 450000)
+        (23914 51370 847794 700000)
         score 0 level 0)
  "snarky"
  (trans "令人感到讽刺的" note nil date
-        (23854 10388 51516 836000)
+        (23914 51374 487831 716000)
         score 0 level 0)
  "rhetoric"
  (trans "修辞" note nil date
-        (23854 10422 971288 529000)
+        (23914 51381 879852 250000)
         score 0 level 0)
  "hostile"
  (trans "敌对" note nil date
-        (23854 10896 379271 599000)
-        score 0 level 0)
+        (23914 51384 247833 744000)
+        score 2 level 1)
  "envy"
  (trans "羡慕" note nil date
-        (23854 12999 731298 903000)
-        score 0 level 0)
+        (23914 51387 159850 107000)
+        score 2 level 1)
  "disservice"
  (trans "帮倒忙" note nil date
-        (23854 13657 371387 539000)
+        (23914 51391 711836 57000)
         score 0 level 0)
  "prerogative"
  (trans "特权" note nil date
-        (23855 18410 766870 780000)
+        (23916 14303 172071 327000)
         score 0 level 0)
  "juncture"
  (trans "契机" note nil date
-        (23855 18954 798597 931000)
+        (23916 14308 956059 34000)
         score 0 level 0)
  "ventilation"
  (trans "通风" note nil date
-        (23855 19448 590672 143000)
-        score 0 level 0)
+        (23916 14316 476123 690000)
+        score 1 level 0)
  "orchestration"
  (trans "管弦乐编曲" note nil date
-        (23855 24398 527190 461000)
+        (23916 14321 372039 540000)
         score 0 level 0)
  "puffery"
  (trans "吹捧" note nil date
-        (23863 28920 512641 33000)
+        (23917 45849 792484 237000)
         score 0 level 0)
  "shoddy"
  (trans "以次充好" note nil date
-        (23863 28996 176379 33000)
+        (23917 45855 816410 479000)
         score 0 level 0)
  "proliferation"
  (trans "增殖" note nil date
-        (23863 29018 392328 615000)
+        (23917 45861 336390 488000)
         score 0 level 0)
  "rotten"
  (trans "烂" note nil date
-        (23863 29037 72339 11000)
-        score 0 level 0)
+        (23917 45864 448462 447000)
+        score 2 level 1)
  "fervent"
  (trans "热切" note nil date
-        (23863 30900 8517 469000)
+        (23917 45868 32397 73000)
         score 0 level 0)
  "dorky"
  (trans "学究气" note nil date
-        (23863 31359 384560 372000)
+        (23922 52224 934211 570000)
         score 0 level 0)
  "relentless"
  (trans "狠" note nil date
-        (23863 31388 264450 106000)
+        (23922 52249 614312 176000)
         score 0 level 0)
  "refuge"
  (trans "避难所" note nil date
-        (23863 31401 144500 812000)
+        (23922 52266 974282 8000)
         score 0 level 0)
  "salvation"
  (trans "救恩" note nil date
-        (23863 34090 944717 919000)
-        score 0 level 0)
+        (23922 52279 494223 384000)
+        score 2 level 1)
  "relic"
  (trans "遗迹" note nil date
-        (23863 36488 760781 224000)
+        (23922 52296 398226 460000)
         score 0 level 0)
  "toxic"
  (trans "有毒的" note nil date
-        (23863 38192 792872 616000)
+        (23922 52306 422216 4000)
         score 0 level 0)
  "censorship"
  (trans "审查" note nil date
@@ -996,7 +996,7 @@
         score 0 level 0)
  "debacle"
  (trans "崩溃" note nil date
-        (23883 58517 251558 133000)
+        (23917 64942 761336 414000)
         score 0 level 0)
  "dubious"
  (trans "可疑" note nil date
@@ -1024,7 +1024,7 @@
         score 0 level 0)
  "stake"
  (trans "赌注" note nil date
-        (23883 60926 483075 305000)
+        (23917 65004 73352 187000)
         score 0 level 0)
  "nurture"
  (trans "培育" note nil date
@@ -1052,7 +1052,7 @@
         score 0 level 0)
  "cater"
  (trans "迎合" note nil date
-        (23883 61413 366762 448000)
+        (23923 6351 599063 467000)
         score 0 level 0)
  "glaringly"
  (trans "昭然若揭" note nil date
@@ -1072,7 +1072,7 @@
         score 0 level 0)
  "obsession"
  (trans "困扰" note nil date
-        (23883 61970 123751 738000)
+        (23920 34455 840873 438000)
         score 0 level 0)
  "epigram"
  (trans "警句" note nil date
@@ -1120,7 +1120,7 @@
         score 0 level 0)
  "tactic"
  (trans "战术" note nil date
-        (23891 7927 575402 247000)
+        (23923 6576 767101 906000)
         score 0 level 0)
  "pedantry"
  (trans "学究气" note nil date
@@ -1168,7 +1168,7 @@
         score 0 level 0)
  "veteran"
  (trans "老将" note nil date
-        (23894 65110 101627 619000)
+        (23916 18649 236254 919000)
         score 0 level 0)
  "enticing"
  (trans "诱人" note nil date
@@ -1313,4 +1313,340 @@
  "abusive"
  (trans "滥用的" note nil date
         (23914 15421 318267 94000)
+        score 0 level 0)
+ "tarnish"
+ (trans "玷污" note nil date
+        (23914 51346 127951 128000)
+        score 0 level 0)
+ "intimidating"
+ (trans "吓人" note nil date
+        (23914 53010 295977 978000)
+        score 0 level 0)
+ "asylum"
+ (trans "避难所" note nil date
+        (23914 55310 344053 831000)
+        score 0 level 0)
+ "bazaar"
+ (trans "市场" note nil date
+        (23914 56905 984225 21000)
+        score 0 level 0)
+ "ruggedization"
+ (trans "强化" note nil date
+        (23914 62735 80405 746000)
+        score 0 level 0)
+ "allegation"
+ (trans "断言" note nil date
+        (23914 63537 112476 104000)
+        score 0 level 0)
+ "allegations"
+ (trans "指控" note nil date
+        (23914 63548 88600 167000)
+        score 0 level 0)
+ "sexism"
+ (trans "性别歧视" note nil date
+        (23914 63557 392488 180000)
+        score 0 level 0)
+ "dolmen"
+ (trans "石棚" note nil date
+        (23916 14274 28206 652000)
+        score 0 level 0)
+ "defamation"
+ (trans "诽谤" note nil date
+        (23916 15955 996320 587000)
+        score 0 level 0)
+ "decriminalize"
+ (trans "合法化" note nil date
+        (23916 16060 316180 498000)
+        score 0 level 0)
+ "Marijuana"
+ (trans "大麻" note nil date
+        (23916 16065 844212 983000)
+        score 0 level 0)
+ "weasel"
+ (trans "黄鼠狼" note nil date
+        (23916 17383 212275 679000)
+        score 0 level 0)
+ "topographic"
+ (trans "地形" note nil date
+        (23916 17915 964326 677000)
+        score 0 level 0)
+ "salvage"
+ (trans "rescue" note nil date
+        (23916 20146 916409 662000)
+        score 0 level 0)
+ "fray"
+ (trans "磨损" note nil date
+        (23916 20172 19647 138000)
+        score 0 level 0)
+ "ethical"
+ (trans "合乎道德的" note nil date
+        (23916 20226 972422 554000)
+        score 0 level 0)
+ "ilk"
+ (trans "similar things" note nil date
+        (23916 20305 244391 224000)
+        score 0 level 0)
+ "pummel"
+ (trans "揍" note nil date
+        (23917 45819 32553 621000)
+        score 0 level 0)
+ "egregious"
+ (trans "过分的" note nil date
+        (23917 47680 488546 231000)
+        score 0 level 0)
+ "stark"
+ (trans "与之形成鲜明" note nil date
+        (23917 48116 728576 779000)
+        score 0 level 0)
+ "sharpie"
+ (trans "记号笔" note nil date
+        (23917 48188 136584 821000)
+        score 0 level 0)
+ "matte"
+ (trans "磨砂" note nil date
+        (23917 48508 336546 206000)
+        score 0 level 0)
+ "wimpy"
+ (trans "懦弱" note nil date
+        (23917 48610 560589 712000)
+        score 0 level 0)
+ "eons"
+ (trans "永世" note nil date
+        (23917 48643 656553 494000)
+        score 0 level 0)
+ "knack"
+ (trans "诀窍" note nil date
+        (23917 59699 193174 287000)
+        score 0 level 0)
+ "salute"
+ (trans "敬礼" note nil date
+        (23917 60808 457241 757000)
+        score 0 level 0)
+ "squander"
+ (trans "浪费" note nil date
+        (23917 61584 401220 823000)
+        score 0 level 0)
+ "introvert"
+ (trans "性格内向" note nil date
+        (23917 61850 937294 56000)
+        score 0 level 0)
+ "surmountable"
+ (trans "克服的" note nil date
+        (23917 62857 33229 540000)
+        score 0 level 0)
+ "epitome"
+ (trans "缩影" note nil date
+        (23917 63748 897269 592000)
+        score 0 level 0)
+ "lingo"
+ (trans "行话" note nil date
+        (23917 63761 801268 455000)
+        score 0 level 0)
+ "churn"
+ (trans "搅动" note nil date
+        (23917 63809 97347 37000)
+        score 0 level 0)
+ "funhouse"
+ (trans "游乐园里" note nil date
+        (23917 63833 777293 100000)
+        score 0 level 0)
+ "revulsion"
+ (trans "厌恶" note nil date
+        (23917 63853 81430 581000)
+        score 0 level 0)
+ "impaired"
+ (trans "受损" note nil date
+        (23917 63880 1362 555000)
+        score 0 level 0)
+ "heresy"
+ (trans "异端" note nil date
+        (23917 64111 249461 577000)
+        score 0 level 0)
+ "tentacle"
+ (trans "触手" note nil date
+        (23917 64976 33391 95000)
+        score 0 level 0)
+ "incompetent"
+ (trans "无能" note nil date
+        (23917 65016 681389 785000)
+        score 0 level 0)
+ "arrogant"
+ (trans "傲慢" note nil date
+        (23917 65034 57381 848000)
+        score 0 level 0)
+ "dunno"
+ (trans "不知道" note nil date
+        (23917 65111 897381 351000)
+        score 0 level 0)
+ "detrimental"
+ (trans "有害" note nil date
+        (23918 256 641306 33000)
+        score 0 level 0)
+ "attest"
+ (trans "表明" note nil date
+        (23918 322 809606 230000)
+        score 0 level 0)
+ "truism"
+ (trans "老生常谈" note nil date
+        (23918 330 33395 653000)
+        score 0 level 0)
+ "moot"
+ (trans "没有实际意义" note nil date
+        (23918 357 17404 195000)
+        score 0 level 0)
+ "curricula"
+ (trans "课程" note nil date
+        (23918 595 313328 559000)
+        score 0 level 0)
+ "zeppelin"
+ (trans "飞艇" note nil date
+        (23918 1078 713474 426000)
+        score 0 level 0)
+ "assault"
+ (trans "突击" note nil date
+        (23918 1112 409473 960000)
+        score 0 level 0)
+ "behemoth"
+ (trans "河马" note nil date
+        (23918 3937 554149 133000)
+        score 0 level 0)
+ "refugee"
+ (trans "难民" note nil date
+        (23918 4973 817634 459000)
+        score 0 level 0)
+ "petition"
+ (trans "请愿" note nil date
+        (23918 7992 649686 864000)
+        score 0 level 0)
+ "malign"
+ (trans "诽谤" note nil date
+        (23918 8111 553669 602000)
+        score 0 level 0)
+ "derivative"
+ (trans "衍生物" note nil date
+        (23920 27549 129042 744000)
+        score 0 level 0)
+ "segregation"
+ (trans "隔离" note nil date
+        (23920 28325 870163 340000)
+        score 0 level 0)
+ "sexist"
+ (trans "性别歧视" note nil date
+        (23920 28366 728553 866000)
+        score 0 level 0)
+ "precarious"
+ (trans "危险的" note nil date
+        (23920 28447 49173 52000)
+        score 0 level 0)
+ "marital"
+ (trans "婚姻" note nil date
+        (23920 28509 240504 818000)
+        score 0 level 0)
+ "syndrome"
+ (trans "综合征" note nil date
+        (23920 28903 928824 519000)
+        score 0 level 0)
+ "mistreat"
+ (trans "虐待" note nil date
+        (23920 29812 904557 882000)
+        score 0 level 0)
+ "bureaucracy"
+ (trans "官僚" note nil date
+        (23920 30595 272641 941000)
+        score 0 level 0)
+ "relegate"
+ (trans "贬谪" note nil date
+        (23920 32063 985359 295000)
+        score 0 level 0)
+ "dissenter"
+ (trans "异己" note nil date
+        (23920 34155 169272 889000)
+        score 0 level 0)
+ "symbiosis"
+ (trans "合作关系" note nil date
+        (23920 34263 872791 206000)
+        score 0 level 0)
+ "serendipity"
+ (trans "意外发现" note nil date
+        (23920 34567 843081 578000)
+        score 0 level 0)
+ "oblivion"
+ (trans "遗忘" note nil date
+        (23920 34673 17483 671000)
+        score 0 level 0)
+ "lurk"
+ (trans "匿伏" note nil date
+        (23920 34699 208816 93000)
+        score 0 level 0)
+ "surefire"
+ (trans "万全" note nil date
+        (23920 34765 801084 94000)
+        score 0 level 0)
+ "altruism"
+ (trans "利他主义" note nil date
+        (23920 34836 960842 262000)
+        score 0 level 0)
+ "sully"
+ (trans "玷污" note nil date
+        (23920 40005 649237 476000)
+        score 0 level 0)
+ "civility"
+ (trans "礼貌" note nil date
+        (23920 40411 281014 425000)
+        score 0 level 0)
+ "grumpy"
+ (trans "性情乖戾的" note nil date
+        (23920 40419 457144 713000)
+        score 0 level 0)
+ "reminiscent"
+ (trans "让人联想起" note nil date
+        (23920 40453 761022 910000)
+        score 0 level 0)
+ "foster"
+ (trans "培育" note nil date
+        (23920 40862 497067 305000)
+        score 0 level 0)
+ "digress"
+ (trans "离题" note nil date
+        (23920 40911 121062 339000)
+        score 0 level 0)
+ "hellish"
+ (trans "地狱般" note nil date
+        (23920 42095 537883 338000)
+        score 0 level 0)
+ "epiphany"
+ (trans "顿悟" note nil date
+        (23920 43913 953775 232000)
+        score 0 level 0)
+ "minefield"
+ (trans "雷区" note nil date
+        (23920 44982 409530 900000)
+        score 0 level 0)
+ "lenient"
+ (trans "宽容" note nil date
+        (23920 45206 577386 697000)
+        score 0 level 0)
+ "refinery"
+ (trans "炼油厂" note nil date
+        (23920 45217 177209 81000)
+        score 0 level 0)
+ "seismic"
+ (trans "地震" note nil date
+        (23922 52202 942648 852000)
+        score 0 level 0)
+ "largish"
+ (trans "稍大" note nil date
+        (23922 55162 998452 338000)
+        score 0 level 0)
+ "tycoon"
+ (trans "巨头" note nil date
+        (23923 6058 319332 543000)
+        score 0 level 0)
+ "calligraphy"
+ (trans "书法" note nil date
+        (23923 6074 679327 876000)
+        score 0 level 0)
+ "vouch"
+ (trans "担保" note nil date
+        (23923 6464 559229 447000)
         score 0 level 0))
