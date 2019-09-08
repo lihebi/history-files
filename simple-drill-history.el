@@ -180,15 +180,15 @@
         score 2 level 2)
  "prospect"
  (trans "展望" note nil date
-        (23867 23966 979333 256000)
+        (23923 48207 704890 255000)
         score 0 level 0)
  "veritable"
  (trans "名副其实" note nil date
-        (23867 23972 527317 82000)
+        (23923 48219 968869 623000)
         score 0 level 0)
  "parlance"
  (trans "说法" note nil date
-        (23867 23977 402398 907000)
+        (23923 48229 8822 9000)
         score 0 level 0)
  "cascade"
  (trans "级联" note nil date
@@ -200,19 +200,19 @@
         score 2 level 1)
  "reciprocal"
  (trans "倒数" note nil date
-        (23867 23991 43296 309000)
+        (23923 48237 816905 191000)
         score 0 level 0)
  "geyser"
  (trans "喷泉" note nil date
-        (23867 23995 456404 655000)
+        (23923 48246 856460 159000)
         score 0 level 0)
  "clump"
  (trans "丛" note nil date
-        (23867 23999 199015 87000)
-        score 0 level 0)
+        (23923 48253 600798 606000)
+        score 1 level 0)
  "rummage"
  (trans "临检" note nil date
-        (23867 24007 265322 458000)
+        (23923 48259 656825 678000)
         score 0 level 0)
  "misnomer"
  (trans "用词不当" note nil date
@@ -596,7 +596,7 @@
         score 0 level 0)
  "shoddy"
  (trans "以次充好" note nil date
-        (23917 45855 816410 479000)
+        (23923 51417 200978 769000)
         score 0 level 0)
  "proliferation"
  (trans "增殖" note nil date
@@ -636,15 +636,15 @@
         score 0 level 0)
  "censorship"
  (trans "审查" note nil date
-        (23864 64610 320879 996000)
+        (23923 48187 232919 729000)
         score 0 level 0)
  "abysmal"
  (trans "very bad; very deep" note nil date
-        (23866 7137 908130 852000)
+        (23923 48201 240899 73000)
         score 0 level 0)
  "equilibria"
  (trans "均衡" note nil date
-        (23867 23960 359885 703000)
+        (23923 48266 432815 848000)
         score 0 level 0)
  "parsimonious"
  (trans "俭省的" note nil date
@@ -1649,4 +1649,96 @@
  "vouch"
  (trans "担保" note nil date
         (23923 6464 559229 447000)
+        score 0 level 0)
+ "turbine"
+ (trans "涡轮" note nil date
+        (23923 48173 25207 214000)
+        score 0 level 0)
+ "planetarium"
+ (trans "天文馆" note nil date
+        (23923 48320 929091 978000)
+        score 0 level 0)
+ "quo"
+ (trans "现状" note nil date
+        (23923 51392 505112 452000)
+        score 0 level 0)
+ "untenable"
+ (trans "站不住脚的" note nil date
+        (23923 51400 729138 430000)
+        score 0 level 0)
+ "trope"
+ (trans "比喻" note nil date
+        (23923 51435 521184 975000)
+        score 0 level 0)
+ "hospice"
+ (trans "临终关怀" note nil date
+        (23923 52115 65223 343000)
+        score 0 level 0)
+ "fiasco"
+ (trans "惨败" note nil date
+        (23924 1130 386080 135000)
+        score 0 level 0)
+ "inscrutable"
+ (trans "高深莫测" note nil date
+        (23924 1747 729779 269000)
+        score 0 level 0)
+ "worship"
+ (trans "崇拜" note nil date
+        (23924 2371 865938 455000)
+        score 0 level 0)
+ "endure"
+ (trans "忍受" note nil date
+        (23924 2381 273443 913000)
+        score 0 level 0)
+ "nasty"
+ (trans "讨厌" note nil date
+        (23924 4250 153949 483000)
+        score 0 level 0)
+ "abolish"
+ (trans "废除" note nil date
+        (23924 19594 146789 276000)
+        score 0 level 0)
+ "demolish"
+ (trans "拆除" note nil date
+        (23924 19812 898577 875000)
+        score 0 level 0)
+ "egress"
+ (trans "出口" note nil date
+        (23924 19855 146589 752000)
+        score 0 level 0)
+ "legislator"
+ (trans "立法者" note nil date
+        (23924 19888 986578 707000)
+        score 0 level 0)
+ "sprawl"
+ (trans "蔓生" note nil date
+        (23924 19912 346566 335000)
+        score 0 level 0)
+ "zealot"
+ (trans "狂热者" note nil date
+        (23924 20941 994600 598000)
+        score 0 level 0)
+ "reify"
+ (trans "具体化" note nil date
+        (23924 21148 570704 180000)
+        score 0 level 0)
+ "haggle"
+ (trans "讨价还价" note nil date
+        (23924 22204 986656 753000)
+        score 0 level 0)
+ "missive"
+ (trans "书信" note nil date
+        (23924 22425 978798 476000)
+        score 0 level 0)
+ "parrot"
+ (trans "鹦鹉" note nil date
+        (23924 24260 162766 222000)
+        score 0 level 0)
+ "subsistence"
+ (trans "生存" note nil date
+        (23924 24672 578829 966000)
+        score 0 level 0)
+ "vilify"
+ (trans "丑化" note nil date
+        (23924 24735 322799 156000)
         score 0 level 0))
