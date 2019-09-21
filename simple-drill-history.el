@@ -1921,4 +1921,48 @@
  "mantra"
  (trans "口头禅" note nil date
         (23939 2880 315810 50000)
+        score 0 level 0)
+ "turmoil"
+ (trans "动荡" note nil date
+        (23941 12511 879850 371000)
+        score 0 level 0)
+ "gangsta"
+ (trans "匪帮" note nil date
+        (23941 13387 679567 52000)
+        score 0 level 0)
+ "mineral"
+ (trans "矿物" note nil date
+        (23941 13535 207518 231000)
+        score 0 level 0)
+ "yuck"
+ (trans "呸" note nil date
+        (23941 19558 495422 756000)
+        score 0 level 0)
+ "compelling"
+ (trans "引人注目" note nil date
+        (23941 21458 239826 439000)
+        score 0 level 0)
+ "telemetry"
+ (trans "遥测" note nil date
+        (23941 42382 656782 692000)
+        score 0 level 0)
+ "yacht"
+ (trans "游艇" note nil date
+        (23941 42472 872784 203000)
+        score 0 level 0)
+ "indie"
+ (trans "独立" note nil date
+        (23941 45638 24906 905000)
+        score 0 level 0)
+ "mend"
+ (trans "修补" note nil date
+        (23941 45844 568301 983000)
+        score 0 level 0)
+ "riddance"
+ (trans "甩掉包袱" note nil date
+        (23941 46078 648912 106000)
+        score 0 level 0)
+ "hinge"
+ (trans "合页" note nil date
+        (23941 46092 112935 747000)
         score 0 level 0))
