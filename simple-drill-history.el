@@ -36,7 +36,7 @@
         score 0 level 0)
  "putative"
  (trans "假定" note nil date
-        (23892 25216 659048 367000)
+        (23953 51765 522027 376000)
         score 0 level 0)
  "meteorological"
  (trans "气象" note nil date
@@ -684,7 +684,7 @@
         score 0 level 0)
  "insurmountable"
  (trans "不可逾越" note nil date
-        (23868 46238 126441 673000)
+        (23953 48421 360608 435000)
         score 0 level 0)
  "posit"
  (trans "断定" note nil date
@@ -892,7 +892,7 @@
         score 0 level 0)
  "terse"
  (trans "简洁" note nil date
-        (23875 15618 474232 841000)
+        (23952 20696 125373 918000)
         score 0 level 0)
  "mashup"
  (trans "混搭" note nil date
@@ -1164,7 +1164,7 @@
         score 0 level 0)
  "discrepancy"
  (trans "差异" note nil date
-        (23894 63210 109540 635000)
+        (23953 48661 136634 920000)
         score 0 level 0)
  "veteran"
  (trans "老将" note nil date
@@ -1836,7 +1836,7 @@
         score 0 level 0)
  "contemporary"
  (trans "现代的" note nil date
-        (23936 21540 391193 457000)
+        (23952 19538 132773 81000)
         score 0 level 0)
  "sinner"
  (trans "罪人" note nil date
@@ -1965,4 +1965,124 @@
  "hinge"
  (trans "合页" note nil date
         (23941 46092 112935 747000)
+        score 0 level 0)
+ "inundated"
+ (trans "淹没" note nil date
+        (23952 19461 645197 19000)
+        score 0 level 0)
+ "solace"
+ (trans "慰藉" note nil date
+        (23952 19549 300925 490000)
+        score 0 level 0)
+ "insofar"
+ (trans "只要" note nil date
+        (23952 19809 805082 28000)
+        score 0 level 0)
+ "referee"
+ (trans "裁判" note nil date
+        (23952 20394 157358 526000)
+        score 0 level 0)
+ "stellar"
+ (trans "恒星" note nil date
+        (23952 20667 797569 45000)
+        score 0 level 0)
+ "contrarian"
+ (trans "逆势" note nil date
+        (23952 20945 757702 536000)
+        score 0 level 0)
+ "disturbing"
+ (trans "烦扰的" note nil date
+        (23952 22145 398206 408000)
+        score 0 level 0)
+ "decry"
+ (trans "谴责" note nil date
+        (23952 26255 112120 818000)
+        score 0 level 0)
+ "suffocated"
+ (trans "窒息" note nil date
+        (23952 27306 64511 923000)
+        score 0 level 0)
+ "deflect"
+ (trans "打歪" note nil date
+        (23952 27439 888643 760000)
+        score 0 level 0)
+ "bevel"
+ (trans "斜角" note nil date
+        (23953 9367 334751 52000)
+        score 0 level 0)
+ "pendulum"
+ (trans "摆" note nil date
+        (23953 9374 963693 327000)
+        score 0 level 0)
+ "kinetic"
+ (trans "动能" note nil date
+        (23953 9381 606568 34000)
+        score 0 level 0)
+ "buoyancy"
+ (trans "浮力" note nil date
+        (23953 9601 926731 831000)
+        score 0 level 0)
+ "refract"
+ (trans "折射" note nil date
+        (23953 9681 974773 375000)
+        score 0 level 0)
+ "rectilinear"
+ (trans "直线" note nil date
+        (23953 9745 310764 228000)
+        score 0 level 0)
+ "sober"
+ (trans "清醒" note nil date
+        (23953 45952 647708 125000)
+        score 0 level 0)
+ "nuisance"
+ (trans "滋扰" note nil date
+        (23953 46205 39697 843000)
+        score 0 level 0)
+ "milieu"
+ (trans "中间" note nil date
+        (23953 47136 120037 912000)
+        score 0 level 0)
+ "burglarized"
+ (trans "被盗" note nil date
+        (23953 48053 384599 497000)
+        score 0 level 0)
+ "vicinity"
+ (trans "附近" note nil date
+        (23953 49306 497386 901000)
+        score 0 level 0)
+ "basin"
+ (trans "盆地" note nil date
+        (23953 49712 96865 701000)
+        score 0 level 0)
+ "deterioration"
+ (trans "恶化" note nil date
+        (23953 51981 730342 508000)
+        score 0 level 0)
+ "amenability"
+ (trans "顺从" note nil date
+        (23954 24933 108282 38000)
+        score 0 level 0)
+ "exposition"
+ (trans "解释" note nil date
+        (23954 31981 839356 192000)
+        score 0 level 0)
+ "confine"
+ (trans "局限" note nil date
+        (23955 52747 527368 795000)
+        score 0 level 0)
+ "trebuchet"
+ (trans "投石机" note nil date
+        (23958 2906 819314 870000)
+        score 0 level 0)
+ "disseminate"
+ (trans "传播" note nil date
+        (23961 10608 839625 961000)
+        score 0 level 0)
+ "myriad"
+ (trans "无数的" note nil date
+        (23961 11772 783884 656000)
+        score 0 level 0)
+ "demarcate"
+ (trans "标定" note nil date
+        (23961 40446 509228 295000)
         score 0 level 0))
