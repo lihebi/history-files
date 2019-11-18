@@ -428,7 +428,7 @@
         score 0 level 0)
  "unprecedented"
  (trans "史无前例" note nil date
-        (23868 45510 91154 874000)
+        (24008 7198 610396 953000)
         score 0 level 0)
  "footage"
  (trans "镜头" note nil date
@@ -652,35 +652,35 @@
         score 0 level 0)
  "territory"
  (trans "领土" note nil date
-        (23868 5880 596667 462000)
-        score 0 level 0)
+        (24008 7204 98436 632000)
+        score 2 level 1)
  "instill"
  (trans "灌输" note nil date
-        (23868 6024 996594 305000)
+        (24008 7209 2468 988000)
         score 0 level 0)
  "sanction"
  (trans "制裁" note nil date
-        (23868 6873 940649 934000)
+        (24008 7217 810443 393000)
         score 0 level 0)
  "endeavor"
  (trans "努力" note nil date
-        (23868 45423 46476 816000)
+        (24008 7221 722410 815000)
         score 0 level 0)
  "propaganda"
  (trans "宣传" note nil date
-        (23868 45540 182418 757000)
+        (24008 7228 562466 39000)
         score 0 level 0)
  "pessimistic"
  (trans "悲观" note nil date
-        (23868 45595 342321 536000)
+        (24008 7237 818470 750000)
         score 0 level 0)
  "judicious"
  (trans "明智的" note nil date
-        (23868 45730 830436 972000)
+        (24008 7243 226415 429000)
         score 0 level 0)
  "boon"
  (trans "福利" note nil date
-        (23868 46043 518409 772000)
+        (24008 7247 938428 794000)
         score 0 level 0)
  "insurmountable"
  (trans "不可逾越" note nil date
@@ -704,15 +704,15 @@
         score 0 level 0)
  "gazillion"
  (trans "极大数" note nil date
-        (23868 48056 878505 10000)
+        (24008 7256 18396 22000)
         score 0 level 0)
  "raster"
  (trans "光栅" note nil date
-        (23868 50849 614612 227000)
+        (24008 7262 234461 289000)
         score 0 level 0)
  "spill"
  (trans "洒" note nil date
-        (23868 56030 982891 231000)
+        (24008 7266 410470 312000)
         score 0 level 0)
  "interlace"
  (trans "交错" note nil date
@@ -2085,4 +2085,8 @@
  "demarcate"
  (trans "标定" note nil date
         (23961 40446 509228 295000)
+        score 0 level 0)
+ "viable"
+ (trans "可行的" note nil date
+        (24008 7185 970487 28000)
         score 0 level 0))
