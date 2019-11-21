@@ -2089,4 +2089,16 @@
  "viable"
  (trans "可行的" note nil date
         (24008 7185 970487 28000)
+        score 0 level 0)
+ "morale"
+ (trans "士气" note nil date
+        (24018 59062 82373 165000)
+        score 0 level 0)
+ "cynical"
+ (trans "愤世嫉俗的" note nil date
+        (24018 59084 930383 11000)
+        score 0 level 0)
+ "antithesis"
+ (trans "对立" note nil date
+        (24018 60441 323004 682000)
         score 0 level 0))
