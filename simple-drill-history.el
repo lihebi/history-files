@@ -2101,4 +2101,20 @@
  "antithesis"
  (trans "对立" note nil date
         (24018 60441 323004 682000)
+        score 0 level 0)
+ "monastic"
+ (trans "修道院的" note nil date
+        (24069 31416 666348 944000)
+        score 0 level 0)
+ "grouch"
+ (trans "牢骚" note nil date
+        (24069 36346 180187 151000)
+        score 0 level 0)
+ "pessimism"
+ (trans "悲观主义" note nil date
+        (24069 39390 580795 467000)
+        score 0 level 0)
+ "demise"
+ (trans "消亡" note nil date
+        (24069 39602 31395 873000)
         score 0 level 0))
